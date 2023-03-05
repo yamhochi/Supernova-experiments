@@ -1,14 +1,6 @@
 {
   "color": {
     "text": {
-      "texttertiary-helper-": {
-        "value": "#697077ff",
-        "type": "color"
-      },
-      "textsubtle-placeholder-": {
-        "value": "#878d96ff",
-        "type": "color"
-      },
       "onemphasis": {
         "value": "#ffffffff",
         "type": "color"
@@ -19,6 +11,14 @@
       },
       "textsecondary": {
         "value": "{color.-globalcolours.coolgray.70.value}",
+        "type": "color"
+      },
+      "texttertiary-helper-": {
+        "value": "{color.-globalcolours.coolgray.60.value}",
+        "type": "color"
+      },
+      "textsubtle-placeholder-": {
+        "value": "{color.-globalcolours.coolgray.50.value}",
         "type": "color"
       }
     },
