@@ -23,12 +23,12 @@
       }
     },
     "border": {
-      "bordersubtle-default-": {
-        "value": "#dde1e6ff",
-        "type": "color"
-      },
       "border": {
         "value": "#878d96ff",
+        "type": "color"
+      },
+      "bordersubtle-default-": {
+        "value": "{color.-globalcolours.coolgray.20.value}",
         "type": "color"
       }
     },
